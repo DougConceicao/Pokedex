@@ -1,9 +1,11 @@
 ## Pokedex
 Pokedex para fins educacional.
 
-#Plano de Metodos.
+#Planejamento de Projeto.
 
-[ ] Adicionar layout de fundo
-[ ] Adicionar layout da Pokedex
-[ ] Adicionar API para cada Pokemon
-[ ] Adicionar Design Responsivo
+[x] Adicionar layout de fundo<br>
+[x] Adicionar layout da Pokedex<br>
+[ ] Adicionar API para cada Pokemon<br>
+[ ] Adicionar Pokemons<br>
+[ ] Adicionar Design Responsivo<br>
+[ ] Adicionar busca por nome ou ID<br>
