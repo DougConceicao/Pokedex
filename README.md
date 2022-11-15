@@ -1,7 +1,7 @@
 ## Pokedex
 Pokedex para fins educacional.
 
-#Planejamento de Projeto.
+## Planejamento de Projeto.
 
 [x] Adicionar layout de fundo<br>
 [x] Adicionar layout da Pokedex<br>
