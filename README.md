@@ -18,3 +18,4 @@ HTML, CSS, JavaScript.
 [x] Adicionar Pokemons<br>
 [ ] Adicionar Design Responsivo<br>
 [x] Adicionar busca por nome ou ID<br>
+[ ] Corrigir problema com o Pokémon inicial

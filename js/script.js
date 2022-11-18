@@ -19,15 +19,13 @@ const fetchPokemon = async (pokemon) => {
 
 const renderPokemon = async (pokemon) => {
 
-    pokemonNumber.innerHTML = 'Loading...';
+    pokemonName.innerHTML = 'Loading...';
     pokemonNumber.innerHTML = '';
-
-
 
     const data = await fetchPokemon(pokemon);
 
     if (data) {
-        pokemonImage.getElementsByClassName.display = 'block';
+        pokemonImage.style.display = 'block';
         pokemonNumber.innerHTML = data.id;
         pokemonName.innerHTML = data.name;
         pokemonImage.src = data['sprites']['versions']['generation-v']
@@ -35,9 +33,9 @@ const renderPokemon = async (pokemon) => {
         input.value = '';
         searchPokemon = data.id;
     } else {
-        pokemonImage.getElementsByClassName.display = 'none';
+        pokemonImage.style.display = 'none';
         pokemonName.innerHTML = 'Not found';
-        pokemonName.innerHTML = '';
+        pokemonNumber.innerHTML = '';
     }
 }
 
@@ -59,4 +57,4 @@ buttonNext.addEventListener('click', () => {
 });
 
 
-renderPokemon('searchPokemon');
+renderPokemon('1');
