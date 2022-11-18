@@ -14,7 +14,7 @@ HTML, CSS, JavaScript.
 [x] Representar Nome na tela da Pokedex dos Pokemons<br>
 [x] Adicionar campo para busca de Pokemon<br>
 [x] Adicionar Botões<br>
-[ ] Adicionar API para cada Pokemon<br>
-[ ] Adicionar Pokemons<br>
+[x] Adicionar API para cada Pokemon<br>
+[x] Adicionar Pokemons<br>
 [ ] Adicionar Design Responsivo<br>
-[ ] Adicionar busca por nome ou ID<br>
+[x] Adicionar busca por nome ou ID<br>
