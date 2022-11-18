@@ -16,6 +16,6 @@ HTML, CSS, JavaScript.
 [x] Adicionar Botões<br>
 [x] Adicionar API para cada Pokemon<br>
 [x] Adicionar Pokemons<br>
-[ ] Adicionar Design Responsivo<br>
+[x] Adicionar Design Responsivo<br>
 [x] Adicionar busca por nome ou ID<br>
-[ ] Corrigir problema com o Pokémon inicial
+
